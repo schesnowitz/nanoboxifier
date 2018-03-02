@@ -20,9 +20,9 @@ run.config:
     - libxml2
     - libxslt
 ```
-You can view the file by clicking ```html
+You can view the file by clicking 
 <a href='https://gist.github.com/schesnowitz/36501da9df92b115517c49fd22f5e8f1'>Here</a>
-```
+
 Add this line to your application's Gemfile:
 
 ```ruby
