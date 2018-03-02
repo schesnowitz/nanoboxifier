@@ -1,4 +1,4 @@
-# nanoboxifier
+# Nanoboxifier
 
 Welcome to Nanoboxification!
 
@@ -6,7 +6,7 @@ Welcome to Nanoboxification!
 
 Once you have your Rails app created you will need to add a file to the root of the application.  Create a file called boxfile.yml
 
-For now let's fill it in with some stuff to get us rolling.
+For now, let's fill it in with some stuff to get us rolling.
 
 ```yml
 run.config:
