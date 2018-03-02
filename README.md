@@ -46,7 +46,7 @@ There are a few things to configure inside a rails app when working with Nanobox
 
 After running bundle install.
 
-To get a list of task run ```ruby 
+To get a list of tasks you can run ```ruby 
 rake -T | grep boxify ```
 
 To set up your application to use postgresql:
